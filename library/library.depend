@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1534083930 source:e:\c++\library\person.cpp
+	"Person.h"
+
+1534084721 e:\c++\library\person.h
+	<string>
+
+1534152863 source:e:\c++\library\library.cpp
+	<iostream>
+	"Student.h"
+	"Book.h"
+	"Manager.h"
+	"Ebook.h"
+
+1534153348 e:\c++\library\student.h
+	<string>
+	<vector>
+	"Person.h"
+
+1534153673 source:e:\c++\library\student.cpp
+	"Student.h"
+	"Ebook.h"
+	"Book.h"
+	<iostream>
+	<fstream>
+
+1534142044 e:\c++\library\book.h
+	<string>
+	<vector>
+
+1534142693 source:e:\c++\library\book.cpp
+	"Book.h"
+	<fstream>
+	<iostream>
+
+1534142626 e:\c++\library\ebook.h
+	<string>
+	<vector>
+
+1534142426 source:e:\c++\library\ebook.cpp
+	"Ebook.h"
+	<vector>
+	<fstream>
+	<iostream>
+
+1534142579 e:\c++\library\manager.h
+	"Person.h"
+	<string>
+	<vector>
+
+1534142294 source:e:\c++\library\manager.cpp
+	"Manager.h"
+	<iostream>
+	<fstream>
+
+1535524194 source:c:\users\v-xuejia\downloads\library\book.cpp
+	"Book.h"
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1535523764 c:\users\v-xuejia\downloads\library\book.h
+	<string>
+	<vector>
+
+1535524211 source:c:\users\v-xuejia\downloads\library\ebook.cpp
+	"Ebook.h"
+	<vector>
+	<fstream>
+	<iostream>
+	<cstdlib>
+
+1535523764 c:\users\v-xuejia\downloads\library\ebook.h
+	<string>
+	<vector>
+
+1535523905 source:c:\users\v-xuejia\downloads\library\library.cpp
+	<iostream>
+	<cstdlib>
+	"Student.h"
+	"Book.h"
+	"Manager.h"
+	"Ebook.h"
+
+1535523764 c:\users\v-xuejia\downloads\library\student.h
+	<string>
+	<vector>
+	"Person.h"
+
+1535523764 c:\users\v-xuejia\downloads\library\person.h
+	<string>
+
+1535523764 c:\users\v-xuejia\downloads\library\manager.h
+	"Person.h"
+	<string>
+	<vector>
+
+1535524232 source:c:\users\v-xuejia\downloads\library\manager.cpp
+	"Manager.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1535523764 source:c:\users\v-xuejia\downloads\library\person.cpp
+	"Person.h"
+
+1535523764 source:c:\users\v-xuejia\downloads\library\student.cpp
+	"Student.h"
+	"Ebook.h"
+	"Book.h"
+	<iostream>
+	<fstream>
+

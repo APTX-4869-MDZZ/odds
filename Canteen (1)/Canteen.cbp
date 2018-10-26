@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Canteen" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Canteen" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Canteen" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Dish.cpp" />
+		<Unit filename="Dish.h" />
+		<Unit filename="Income.cpp" />
+		<Unit filename="Income.h" />
+		<Unit filename="Manager.cpp" />
+		<Unit filename="Manager.h" />
+		<Unit filename="Order.cpp" />
+		<Unit filename="Order.h" />
+		<Unit filename="Person.cpp" />
+		<Unit filename="Person.h" />
+		<Unit filename="Table.cpp" />
+		<Unit filename="Table.h" />
+		<Unit filename="canteen.cpp" />
+		<Unit filename="dish.txt" />
+		<Unit filename="manager.txt" />
+		<Unit filename="table.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

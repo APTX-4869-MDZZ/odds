@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1534322251 source:e:\c++\canteen\manager.cpp
+	"Manager.h"
+	<iostream>
+	<fstream>
+
+1534322323 e:\c++\canteen\manager.h
+	"Person.h"
+	<string>
+	<vector>
+
+1534258146 e:\c++\canteen\person.h
+	<string>
+
+1534258193 source:e:\c++\canteen\person.cpp
+	"Person.h"
+
+1534322492 source:e:\c++\canteen\canteen.cpp
+	<iostream>
+	"Manager.h"
+	"Table.h"
+	"Dish.h"
+	"Order.h"
+	"Income.h"
+
+1534320687 e:\c++\canteen\table.h
+	<vector>
+	<string>
+
+1534319681 e:\c++\canteen\dish.h
+	<string>
+	<vector>
+
+1534321943 source:e:\c++\canteen\dish.cpp
+	"Dish.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1534321965 source:e:\c++\canteen\table.cpp
+	"Table.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1534322909 source:e:\c++\canteen\order.cpp
+	"Order.h"
+	<vector>
+	<iostream>
+
+1534318843 e:\c++\canteen\order.h
+	<vector>
+
+1534318829 e:\c++\canteen\income.h
+	<vector>
+
+1534322168 source:e:\c++\canteen\income.cpp
+	"Income.h"
+	<iostream>
+	<iomanip>
+

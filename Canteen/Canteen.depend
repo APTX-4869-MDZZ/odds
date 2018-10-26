@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1534322251 source:e:\c++\canteen\manager.cpp
+	"Manager.h"
+	<iostream>
+	<fstream>
+
+1534322323 e:\c++\canteen\manager.h
+	"Person.h"
+	<string>
+	<vector>
+
+1534258146 e:\c++\canteen\person.h
+	<string>
+
+1534258193 source:e:\c++\canteen\person.cpp
+	"Person.h"
+
+1534322492 source:e:\c++\canteen\canteen.cpp
+	<iostream>
+	"Manager.h"
+	"Table.h"
+	"Dish.h"
+	"Order.h"
+	"Income.h"
+
+1534320687 e:\c++\canteen\table.h
+	<vector>
+	<string>
+
+1534319681 e:\c++\canteen\dish.h
+	<string>
+	<vector>
+
+1534321943 source:e:\c++\canteen\dish.cpp
+	"Dish.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1534321965 source:e:\c++\canteen\table.cpp
+	"Table.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1534322909 source:e:\c++\canteen\order.cpp
+	"Order.h"
+	<vector>
+	<iostream>
+
+1534318843 e:\c++\canteen\order.h
+	<vector>
+
+1534318829 e:\c++\canteen\income.h
+	<vector>
+
+1534322168 source:e:\c++\canteen\income.cpp
+	"Income.h"
+	<iostream>
+	<iomanip>
+
+1534350275 source:e:\c++\canteen1\dish.cpp
+	"Dish.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1534350189 e:\c++\canteen1\dish.h
+	<string>
+	<vector>
+
+1534322251 source:e:\c++\canteen1\manager.cpp
+	"Manager.h"
+	<iostream>
+	<fstream>
+
+1534322323 e:\c++\canteen1\manager.h
+	"Person.h"
+	<string>
+	<vector>
+
+1534258146 e:\c++\canteen1\person.h
+	<string>
+
+1534322909 source:e:\c++\canteen1\order.cpp
+	"Order.h"
+	<vector>
+	<iostream>
+
+1534318843 e:\c++\canteen1\order.h
+	<vector>
+
+1534258193 source:e:\c++\canteen1\person.cpp
+	"Person.h"
+
+1534348990 source:e:\c++\canteen1\table.cpp
+	"Table.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1534337080 e:\c++\canteen1\table.h
+	<vector>
+	<string>
+
+1534336733 source:e:\c++\canteen1\income.cpp
+	"Record.h"
+	<iostream>
+	<iomanip>
+
+1534337955 e:\c++\canteen1\record.h
+	<vector>
+
+1534350788 source:e:\c++\canteen1\canteen.cpp
+	<iostream>
+	"Manager.h"
+	"Table.h"
+	"Dish.h"
+	"DishOrder.h"
+	"Record.h"
+
+1534350620 source:e:\c++\canteen1\dishorder.cpp
+	"DishOrder.h"
+	"Dish.h"
+	<vector>
+	<iostream>
+
+1534337770 e:\c++\canteen1\dishorder.h
+	<vector>
+
+1534350627 source:e:\c++\canteen1\record.cpp
+	"Record.h"
+	"Dish.h"
+	<iostream>
+	<iomanip>
+
+1535526707 source:c:\users\v-xuejia\downloads\canteen\person.cpp
+	"Person.h"
+
+1535526707 c:\users\v-xuejia\downloads\canteen\person.h
+	<string>
+
+1535526745 source:c:\users\v-xuejia\downloads\canteen\canteen.cpp
+	<iostream>
+	"Manager.h"
+	"Table.h"
+	"Dish.h"
+	"DishOrder.h"
+	"Record.h"
+	<cstdlib>
+
+1535526707 c:\users\v-xuejia\downloads\canteen\manager.h
+	"Person.h"
+	<string>
+	<vector>
+
+1535526707 c:\users\v-xuejia\downloads\canteen\table.h
+	<vector>
+	<string>
+
+1535526706 c:\users\v-xuejia\downloads\canteen\dish.h
+	<string>
+	<vector>
+
+1535526706 c:\users\v-xuejia\downloads\canteen\dishorder.h
+	<vector>
+
+1535526707 c:\users\v-xuejia\downloads\canteen\record.h
+	<vector>
+
+1535526751 source:c:\users\v-xuejia\downloads\canteen\dish.cpp
+	"Dish.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1535526756 source:c:\users\v-xuejia\downloads\canteen\table.cpp
+	"Table.h"
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+
+1535526775 source:c:\users\v-xuejia\downloads\canteen\manager.cpp
+	"Manager.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1535526706 source:c:\users\v-xuejia\downloads\canteen\dishorder.cpp
+	"DishOrder.h"
+	"Dish.h"
+	<vector>
+	<iostream>
+
+1535526707 source:c:\users\v-xuejia\downloads\canteen\record.cpp
+	"Record.h"
+	"Dish.h"
+	<iostream>
+	<iomanip>
+
